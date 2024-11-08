@@ -2,8 +2,8 @@
 
 >
 >
-> > Rebuild class files and Spring-boot cache
-> mvn clean
-> mvn dependency:purge-local-repository
-> mvn dependency:tree
->> mvn spring-boot:run
+> > Rebuild class files and Spring-boot cache <br />
+> mvn clean <br />
+> mvn dependency:purge-local-repository <br />
+> mvn dependency:tree <br />
+>> mvn spring-boot:run <br />
